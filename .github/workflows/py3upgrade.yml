@@ -6,9 +6,9 @@ on: push
 jobs:
   # Set the job key. The key is displayed as the job name
   # when a job name is not provided
-  super-lint:
+  py3-upgrader:
     # Name the Job
-    name: Lint code base
+    name: Check for python3 upgrades
     # Set the type of machine to run on
     runs-on: ubuntu-latest
 
