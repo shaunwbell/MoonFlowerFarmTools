@@ -17,7 +17,7 @@
     <sortedColumnSourceName>Time(local)</sortedColumnSourceName>
     <sortFilesBySourceNames>Time(local)</sortFilesBySourceNames>
     <fileTableInMemory>false</fileTableInMemory>
-    <accessibleViaFiles>false</accessibleViaFiles>
+    <accessibleViaFiles>true</accessibleViaFiles>
     <!-- sourceAttributes>
     </sourceAttributes -->
     <!-- Please specify the actual cdm_data_type (TimeSeries?) and related info below, for example...
