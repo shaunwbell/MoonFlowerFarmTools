@@ -23,9 +23,8 @@
         <att name="license">[standard]</att>
         <att name="sourceUrl">(local files)</att>
         <att name="standard_name_vocabulary">CF Standard Name Table v70</att>
-        <att name="subsetVariables">ADC, IAQ, a</att>
         <att name="summary">Data from a local source.</att>
-        <att name="testOutOfDate">now-73days</att>
+        <att name="testOutOfDate">now-1days</att>
         <att name="title">Data from a local source.</att>
     </addAttributes>
     <dataVariable>
@@ -169,9 +168,8 @@
         <att name="license">[standard]</att>
         <att name="sourceUrl">(local files)</att>
         <att name="standard_name_vocabulary">CF Standard Name Table v70</att>
-        <att name="subsetVariables">a</att>
         <att name="summary">Data from a local source.</att>
-        <att name="testOutOfDate">now-73days</att>
+        <att name="testOutOfDate">now-1days</att>
         <att name="title">Data from a local source.</att>
     </addAttributes>
     <dataVariable>
